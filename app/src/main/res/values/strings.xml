@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">codingchallange</string>
+    <string name="box_one">BLUE</string>
+    <string name="box_two">RED</string>
+    <string name="box_three">GREEN</string>
+    <string name="box_four">VIOLET</string>
+    <string name="box_five">MINT</string>
+    <string name="box_six">ORANGE</string>
+    <string name="box_seven">PEACH</string>
+    <string name="box_eight">CREAM</string>
+    <string name="box_clear">Clear</string>
+</resources>
